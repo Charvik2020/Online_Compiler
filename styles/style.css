@@ -1,0 +1,85 @@
+body
+{
+	background-color:#c8c8c8;
+}
+
+
+#whole
+{
+	background: #edf7ff;
+}
+
+#header{
+	border:5px solid #edf7ff;
+	border-bottom: 20px solid #5b56c4;
+    margin-bottom: 3px;
+    padding: 3px;
+}
+#header img{
+	padding-bottom:10px;
+}
+img.title_name{
+	float:right;
+}
+img.top_bar{
+	position:absolute;
+	right:10px;
+	top:150px;
+}
+p.top_bar{
+	position:absolute;
+	right:10px;
+	top:150px;
+}
+img.lap{
+    position: absolute;
+    right: 10px;
+    top:100px;
+}
+#block{
+	color: #211d71;
+}
+#content
+{
+	padding: 10px 10px;
+	margin:inherit;
+}
+
+#bottom
+{
+	margin:inherit;
+	color: #8b8a8a;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	margin-top:15px;
+}
+#login_portal
+{
+
+	padding-top: 170px;
+	padding-bottom:180px;
+	margin:auto;
+
+}
+p.descri
+{
+	width:400px;
+	float:left;
+}
+img.bottom_bar{
+	position:absolute;
+	left:10px;
+}
+img.tagline{
+	position:absolute;
+	right:10px;
+}
+table.code{
+	border:1px solid green;
+    margin-top: 3px;
+}
+td.code{
+	vertical-align:top;
+	padding:15px;
+	border:1px solid green;
+}
